@@ -8,3 +8,6 @@
 
 # a link:
  - 이미지 테스트: <a href='test.md>test.md</a>
+ 
+ URL: https://github.com/oinyeong/python_daily_lecture/edit/main/README.md
+ [URL](https://github.com/oinyeong/python_daily_lecture/edit/main/README.md)
